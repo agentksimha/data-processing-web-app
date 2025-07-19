@@ -1,4 +1,4 @@
-# 🧠 Data Preprocessing Web App
+# Data Preprocessing Web App
 
 A simple and interactive Streamlit-based web app to **preview**, **clean**, **visualize**, and **transform** your datasets — no coding required!
 
@@ -30,4 +30,5 @@ A simple and interactive Streamlit-based web app to **preview**, **clean**, **vi
 
 ##bash
 git clone https://github.com/agentksimha/data-preprocessing-app.git
+
 cd data-preprocessing-app
