@@ -28,7 +28,8 @@ A simple and interactive Streamlit-based web app to **preview**, **clean**, **vi
 
 ### 1. Clone the repository
 
-##bash
+## bash
+
 git clone https://github.com/agentksimha/data-preprocessing-app.git
 
 cd data-preprocessing-app
